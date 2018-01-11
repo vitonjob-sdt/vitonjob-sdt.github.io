@@ -1,0 +1,14 @@
+{
+  "name": "Salon du travail",
+  "short_name": "Salon du travail",
+  "start_url": "index.html",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795",
+  "icons": [{
+    "src": "assets/img/vitonjob_square.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }],
+  "background_color": "#757575",
+  "theme_color": "#ffffff"
+}
