@@ -30466,7 +30466,6 @@ ion-navbar.toolbar {
   }
   .footer-toolbar-small-screen .powered-by {
     font-size: 12px;
-    vertical-align: super;
     padding-right: 10px;
   }
   .footer-toolbar-small-screen .center-div {
